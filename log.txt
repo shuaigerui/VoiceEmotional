@@ -1,0 +1,780 @@
+开始自动混淆项目代码扫描文件中。。。。。。
+
+
+混淆项目路径：/Users/a0000/Desktop/whc_clone_directory/VoiceEmotional
+新文件 <-> 现有文件 : LaunchScreen.storyboard      LaunchScreen.storyboard
+新文件 <-> 现有文件 : Main.storyboard      Main.storyboard
+新文件 <-> 现有文件 : VEStoreLocalizationController.swift      ViewController.swift
+新文件 <-> 现有文件 : VEPlayerSetupController.swift      VE_HomeVC.swift
+新文件 <-> 现有文件 : VECoinsController.swift      VE_ReleaseVC.swift
+新文件 <-> 现有文件 : VEScreenNewsController.swift      VE_PostVC.swift
+新文件 <-> 现有文件 : VEMainCell.swift      VE_PostCell.swift
+新文件 <-> 现有文件 : VEOrbitView.swift      VE_PostTopView.swift
+新文件 <-> 现有文件 : VERoomView.swift      VE_DetailTopView.swift
+新文件 <-> 现有文件 : VEMainLaunchController.swift      VE_DetailVC.swift
+新文件 <-> 现有文件 : VEResourceMainController.swift      VE_AIPartnersVC.swift
+新文件 <-> 现有文件 : VERegisterController.swift      VE_ChatRoomVC.swift
+新文件 <-> 现有文件 : VEBlackRoomController.swift      VE_ChatVC.swift
+新文件 <-> 现有文件 : VEPlayerEmptyController.swift      VE_VideoCameraController.swift
+新文件 <-> 现有文件 : VEDetailCurrentController.swift      VE_VideoVC.swift
+新文件 <-> 现有文件 : VEExtensionController.swift      VE_ReportVC.swift
+新文件 <-> 现有文件 : VERoomCoinsController.swift      VE_PersonVC.swift
+新文件 <-> 现有文件 : VEPartnersAudioController.swift      VE_SettingsVC.swift
+新文件 <-> 现有文件 : VEScreenController.swift      VE_EditVC.swift
+新文件 <-> 现有文件 : VECodemagicEmptyController.swift      VE_ProfileVC.swift
+新文件 <-> 现有文件 : VEPlayerReleaseController.swift      VE_BlackVC.swift
+新文件 <-> 现有文件 : VEEditController.swift      VE_CoinsVC.swift
+新文件 <-> 现有文件 : VEManagerResourceController.swift      VE_ContactVC.swift
+新文件 <-> 现有文件 : VEOrbitPartnersCell.swift      VE_CoinsPackageCell.swift
+新文件 <-> 现有文件 : VEPackageView.swift      VE_ProfileTopView.swift
+新文件 <-> 现有文件 : VEModityView.swift      VE_PersonTopView.swift
+新文件 <-> 现有文件 : VEChatRegisterController.swift      VE_VoiceVC.swift
+新文件 <-> 现有文件 : VECodemagicEditController.swift      VE_VoiceReleaseVC.swift
+新文件 <-> 现有文件 : VEStoreView.swift      VE_VoiceOrbitAvatarView.swift
+新文件 <-> 现有文件 : VEHomeController.swift      VE_GuideVC.swift
+新文件 <-> 现有文件 : VEBaseCenterController.swift      VE_SetupVC.swift
+新文件 <-> 现有文件 : VESetupController.swift      VE_LoginVC.swift
+新文件 <-> 现有文件 : VENetwork.swift      VE_UserdefaultTool.swift
+新文件 <-> 现有文件 : VEPackage.swift      VE_ChatLocalStore.swift
+新文件 <-> 现有文件 : VEOrbitRegister.swift      VE_LegalURLs.swift
+新文件 <-> 现有文件 : VEVideo.swift      UIApplication+Extension.swift
+新文件 <-> 现有文件 : VEMain.swift      UIColor+Extension.swift
+新文件 <-> 现有文件 : VEManagerResource.swift      SS_PublishedPostMedia.swift
+新文件 <-> 现有文件 : VEPostContact.swift      Date+Extension.swift
+新文件 <-> 现有文件 : VEVoice.swift      UIImage+Extension.swift
+新文件 <-> 现有文件 : VECodemagic.swift      SS_UserAvatarMedia.swift
+新文件 <-> 现有文件 : VEPartners.swift      SS_UserVoiceMedia.swift
+新文件 <-> 现有文件 : VELogin.swift      String+Extension.swift
+新文件 <-> 现有文件 : VEManager.swift      SS_BundleResourceMedia.swift
+新文件 <-> 现有文件 : VEUserdefaultModity.swift      UserDefaults+Extension.swift
+新文件 <-> 现有文件 : VECameraVoice.swift      String+Localization.swift
+新文件 <-> 现有文件 : VEPublishedLaunch.swift      VE_NetworkTool.swift
+新文件 <-> 现有文件 : VERegisterSetup.swift      VE_PostModel.swift
+新文件 <-> 现有文件 : VEScreen.swift      VE_UserModel.swift
+新文件 <-> 现有文件 : VEBlackToolView.swift      VE_EmptyView.swift
+新文件 <-> 现有文件 : VEGirlDelegate.swift      VE_IAPManager.swift
+新文件 <-> 现有文件 : VEExtension.swift      VE_CoinsCatalog.swift
+新文件 <-> 现有文件 : VEHome.swift      VE_CurrentUser.swift
+新文件 <-> 现有文件 : VESetup.swift      UserData.swift
+新文件 <-> 现有文件 : VEUserdefaultGirl.swift      VE_AudioPlayer.swift
+新文件 <-> 现有文件 : AppDelegate.swift      AppDelegate.swift
+新文件 <-> 现有文件 : followStep.mp3      girl_02.mp3
+新文件 <-> 现有文件 : moreVideo.mp3      girl_03.mp3
+新文件 <-> 现有文件 : showAudioLongin.mp3      girl_01.mp3
+新文件 <-> 现有文件 : mainDelegate_k.mp3      boy_01.mp3
+新文件 <-> 现有文件 : settingError.mp3      boy_02.mp3
+新文件 <-> 现有文件 : VECameraVoiceController.swift      VE_LaunchVC.swift
+新文件 <-> 现有文件 : VEExtensionNetworkController.swift      VE_TabBarVC.swift
+新文件 <-> 现有文件 : VELoginContactController.swift      VE_BaseVC.swift
+
+
+自动为您开启5个线程进行混淆。。。。。。。
+开始自动清理源代码中的注释。。。。。。
+
+
+
+
+开始提取所有源文件中的类名并生成新类名。。。。。。
+类名: ViewController <---替换为---> VEStoreLocalizationController
+类名: VE_HomeVC <---替换为---> VEPlayerSetupController
+类名: VE_HomePartnerScaleLayout <---替换为---> VEVoiceNetwork
+类名: VE_HomePartnerCell <---替换为---> VESetupCell
+类名: VE_ReleaseVC <---替换为---> VECoinsController
+类名: VE_PostVC <---替换为---> VEScreenNewsController
+类名: VE_PostCell <---替换为---> VEMainCell
+类名: VE_PostTopView <---替换为---> VEOrbitView
+类名: VE_DetailTopView <---替换为---> VERoomView
+类名: VE_DetailTopGradientView <---替换为---> VESetupView
+类名: VE_DetailVC <---替换为---> VEMainLaunchController
+类名: VE_DetailPageGradientView <---替换为---> VELegalView
+类名: VE_DetailCommentCell <---替换为---> VECurrentRoomCell
+类名: VE_AIPartnerItem <---替换为---> VEPartnersItem
+类名: VE_AIPartnersVC <---替换为---> VEResourceMainController
+类名: VE_AIPartnerCell <---替换为---> VEPackageCell
+类名: VE_ChatRoomMessage <---替换为---> VEBase
+类名: VE_ChatRoomVC <---替换为---> VERegisterController
+类名: VE_ChatRoomIncomingCell <---替换为---> VEMediaCell
+类名: VE_ChatRoomOutgoingCell <---替换为---> VEPostGirlCell
+类名: VE_FriendInformationItem <---替换为---> VELegalItem
+类名: VE_FriendContactItem <---替换为---> VECatalogItem
+类名: VE_FriendApplyItem <---替换为---> VEOrbitExtensionItem
+类名: VE_ChatVC <---替换为---> VEBlackRoomController
+类名: VE_FriendInformationCell <---替换为---> VEToolCell
+类名: VE_FriendContactCell <---替换为---> VEOrbitCell
+类名: VE_FriendApplyCell <---替换为---> VEPartnersCell
+类名: VE_VideoCameraController <---替换为---> VEPlayerEmptyController
+类名: VE_VideoVC <---替换为---> VEDetailCurrentController
+类名: VE_ReportVC <---替换为---> VEExtensionController
+类名: VE_ReportCell <---替换为---> VECameraCell
+类名: VE_PersonVC <---替换为---> VERoomCoinsController
+类名: VE_PersonShareActionSheet <---替换为---> VEReport
+类名: VE_SettingsVC <---替换为---> VEPartnersAudioController
+类名: VE_SettingsCell <---替换为---> VEModityMainCell
+类名: VE_EditVC <---替换为---> VEScreenController
+类名: VE_ProfileVC <---替换为---> VECodemagicEmptyController
+类名: VE_BlacklistItem <---替换为---> VEResourceVoiceItem
+类名: VE_BlackVC <---替换为---> VEPlayerReleaseController
+类名: VE_BlacklistCell <---替换为---> VELocalizationExtensionCell
+类名: VE_CoinsVC <---替换为---> VEEditController
+类名: VE_ContactVC <---替换为---> VEManagerResourceController
+类名: VE_CoinsPackageCell <---替换为---> VEOrbitPartnersCell
+类名: VE_ProfileTopView <---替换为---> VEPackageView
+类名: VE_PersonTopView <---替换为---> VEModityView
+类名: VE_VoiceVC <---替换为---> VEChatRegisterController
+类名: VE_VoiceReleaseVC <---替换为---> VECodemagicEditController
+类名: VE_VoiceWaveformBarsView <---替换为---> VEGirlView
+类名: VE_VoiceOrbitAvatarView <---替换为---> VEStoreView
+类名: VE_VoiceOrbitWaveBarsView <---替换为---> VEGirlPartnersView
+类名: VE_VoiceOrbitSatelliteView <---替换为---> VEChatPublishedView
+类名: VE_GuideVC <---替换为---> VEHomeController
+类名: VE_SetupVC <---替换为---> VEBaseCenterController
+类名: VE_LoginVC <---替换为---> VESetupController
+类名: VEPersistedPostReport <---替换为---> VEToolPlayer
+类名: VEPersistedPostLike <---替换为---> VENewsSettings
+类名: VEPersistedComment <---替换为---> VEGirlRegister
+类名: VEPersistedProfile <---替换为---> VEStore
+类名: VEPersistedRegisteredUser <---替换为---> VEGirl
+类名: VEPersistedPublishedPost <---替换为---> VEAvatar
+类名: VE_ChatStoredLine <---替换为---> VETool
+类名: VE_ChatThreadFile <---替换为---> VEBlack
+类名: ConversationSummary <---替换为---> VEMediaBase
+类名: LanguageManager <---替换为---> VEVoiceDelegate
+类名: VE_PostComment <---替换为---> VEDelegateBlack
+类名: VE_PostModel <---替换为---> VERegisterSetup
+类名: VE_UserModel <---替换为---> VEScreen
+类名: VE_EmptyView <---替换为---> VEBlackToolView
+类名: VE_IAPManager <---替换为---> VEGirlDelegate
+类名: VE_AudioPlayer <---替换为---> VEUserdefaultGirl
+类名: AppDelegate <---替换为---> AppDelegate
+类名: VE_LaunchVC <---替换为---> VECameraVoiceController
+类名: VE_TabBarVC <---替换为---> VEExtensionNetworkController
+类名: VE_BaseVC <---替换为---> VELoginContactController
+
+
+开始替换所有源文件中的类名。。。。。。
+
+
+
+混淆类名耗时：0.0013031959533691406秒
+
+
+混淆图片xml资源耗时：0.786937952041626秒
+
+
+开始替换宏定义名称。。。。。。
+
+
+
+开始提取所有协议名并生成新协议名。。。。。。
+
+
+开始翻新xib、storyboard控件ID值以及布局微调。。。。。。
+
+
+开始混淆多语言文件的key名称。。。。。。
+
+
+开始自动检测类继承关系。。。。。。
+VEStoreLocalizationController : UIViewController
+VEPlayerSetupController : VELoginContactController
+VEVoiceNetwork : UICollectionViewFlowLayout
+VESetupCell : UICollectionViewCell
+VECoinsController : VELoginContactController
+VEScreenNewsController : VELoginContactController
+VEMainCell : UITableViewCell
+VEOrbitView : UIView
+VERoomView : UIView
+VESetupView : UIView
+VEMainLaunchController : VELoginContactController
+VELegalView : UIView
+VECurrentRoomCell : UITableViewCell
+VEResourceMainController : VELoginContactController
+VEPackageCell : UITableViewCell
+VERegisterController : VELoginContactController
+VEMediaCell : UITableViewCell
+VEPostGirlCell : UITableViewCell
+VEBlackRoomController : VELoginContactController
+VEToolCell : UITableViewCell
+VEOrbitCell : UITableViewCell
+VEPartnersCell : UITableViewCell
+VEDetailCurrentController : VELoginContactController
+VEExtensionController : VELoginContactController
+VECameraCell : UITableViewCell
+VERoomCoinsController : VELoginContactController
+VEReport : UIView
+VEPartnersAudioController : VELoginContactController
+VEModityMainCell : UITableViewCell
+VEScreenController : VELoginContactController
+VECodemagicEmptyController : VELoginContactController
+VEPlayerReleaseController : VELoginContactController
+VELocalizationExtensionCell : UITableViewCell
+VEEditController : VELoginContactController
+VEManagerResourceController : VELoginContactController
+VEOrbitPartnersCell : UICollectionViewCell
+VEPackageView : UIView
+VEModityView : UIView
+VEChatRegisterController : VELoginContactController
+VECodemagicEditController : VELoginContactController
+VEGirlView : UIView
+VEStoreView : UIView
+VEGirlPartnersView : UIView
+VEChatPublishedView : UIView
+VEHomeController : UIViewController
+VEBaseCenterController : VELoginContactController
+VESetupController : UIViewController
+VEScreen : Equatable
+VEBlackToolView : UIView
+VEGirlDelegate : NSObject
+VEUserdefaultGirl : NSObject
+AppDelegate : UIResponder
+VECameraVoiceController : UIViewController
+VEExtensionNetworkController : UITabBarController
+VELoginContactController : UIViewController
+
+
+开始自动检测统计所有文件中属性信息。。。。。。
+
+
+开始自动修改Assets图片资源。。。。。。。
+
+Assets图片资源修改结束
+
+
+开始自动修改sks资源名称。。。。。。。
+
+sks资源修改结束
+
+开始打乱函数定义顺序。。。。。。。
+100%👌
+
+
+开始混淆函数里面局部变量名称。。。。。。。
+文件: [旧 VE_AIPartnersVC <--> 新 VEResourceMainController] 局部变量: cell -> reuseCell
+文件: [旧 VE_AIPartnersVC <--> 新 VEResourceMainController] 局部变量: item -> identifierItem
+文件: [旧 VE_AIPartnersVC <--> 新 VEResourceMainController] 局部变量: p -> comments
+文件: [旧 VE_AIPartnersVC <--> 新 VEResourceMainController] 局部变量: room -> field
+文件: [旧 VE_AIPartnersVC <--> 新 VEResourceMainController] 局部变量: button -> normalButton
+文件: [旧 VE_AIPartnersVC <--> 新 VEResourceMainController] 局部变量: view -> minimumView
+文件: [旧 VE_AIPartnersVC <--> 新 VEResourceMainController] 局部变量: fileName -> normal
+文件: [旧 VE_AIPartnersVC <--> 新 VEResourceMainController] 局部变量: url -> persisted
+文件: [旧 VE_AIPartnersVC <--> 新 VEResourceMainController] 局部变量: b -> screen
+文件: [旧 VE_VideoVC <--> 新 VEDetailCurrentController] 局部变量: alert -> localization
+文件: [旧 VE_VideoVC <--> 新 VEDetailCurrentController] 局部变量: button -> normalButton
+文件: [旧 VE_VideoVC <--> 新 VEDetailCurrentController] 局部变量: button -> normalButton
+文件: [旧 VE_VideoVC <--> 新 VEDetailCurrentController] 局部变量: button -> normalButton
+文件: [旧 VE_VideoVC <--> 新 VEDetailCurrentController] 局部变量: button -> normalButton
+文件: [旧 VE_PostVC <--> 新 VEScreenNewsController] 局部变量: seen -> variant
+文件: [旧 VE_PostVC <--> 新 VEScreenNewsController] 局部变量: vc -> tappedController
+文件: [旧 VE_PostVC <--> 新 VEScreenNewsController] 局部变量: cell -> reuseCell
+文件: [旧 VE_PostVC <--> 新 VEScreenNewsController] 局部变量: post -> minutes
+文件: [旧 VE_PostVC <--> 新 VEScreenNewsController] 局部变量: author -> commit
+文件: [旧 VE_PostVC <--> 新 VEScreenNewsController] 局部变量: room -> field
+文件: [旧 VE_PostVC <--> 新 VEScreenNewsController] 局部变量: view -> minimumView
+文件: [旧 VE_DetailTopView <--> 新 VERoomView] 局部变量: cfg -> password
+文件: [旧 VE_DetailTopView <--> 新 VERoomView] 局部变量: avatarTap -> register_xt
+文件: [旧 VE_DetailTopView <--> 新 VERoomView] 局部变量: b -> screen
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: w -> tilt
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: height -> yesterday
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: tap -> pops
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: newLike -> label
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: author -> commit
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: room -> field
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: profileUser -> purchase
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: cover -> layout
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: avatar -> release_3
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: vc -> tappedController
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: target -> localization
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: text -> preview
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: comment -> delegate_s
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: indexPath -> buttons
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: cell -> reuseCell
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: button -> normalButton
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: tv -> long_gView
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: t -> nav
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: b -> screen
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: cfg -> password
+文件: [旧 VE_DetailVC <--> 新 VEMainLaunchController] 局部变量: b -> screen
+文件: [旧 VE_EditVC <--> 新 VEScreenController] 局部变量: tap -> pops
+文件: [旧 VE_EditVC <--> 新 VEScreenController] 局部变量: configuration -> modity
+文件: [旧 VE_EditVC <--> 新 VEScreenController] 局部变量: picker -> records
+文件: [旧 VE_EditVC <--> 新 VEScreenController] 局部变量: cfg -> password
+文件: [旧 VE_EditVC <--> 新 VEScreenController] 局部变量: trimmed -> coins
+文件: [旧 VE_EditVC <--> 新 VEScreenController] 局部变量: avatarBaseName -> fill
+文件: [旧 VE_EditVC <--> 新 VEScreenController] 局部变量: button -> normalButton
+文件: [旧 VE_EditVC <--> 新 VEScreenController] 局部变量: b -> screen
+文件: [旧 VE_EditVC <--> 新 VEScreenController] 局部变量: t -> nav
+文件: [旧 VE_EditVC <--> 新 VEScreenController] 局部变量: b -> screen
+文件: [旧 VE_TabBarVC <--> 新 VEExtensionNetworkController] 局部变量: apply -> tapped
+文件: [旧 VE_TabBarVC <--> 新 VEExtensionNetworkController] 局部变量: button -> normalButton
+文件: [旧 String+Extension <--> 新 VELogin] 局部变量: regex -> des
+文件: [旧 String+Extension <--> 新 VELogin] 局部变量: format -> all
+文件: [旧 String+Extension <--> 新 VELogin] 局部变量: currentDate -> selection
+文件: [旧 String+Extension <--> 新 VELogin] 局部变量: timeInterval -> content
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: center -> five
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: count -> tab
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: cosTilt -> self_x4
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: sinTilt -> audio
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: ring -> picked
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: a -> minimum
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: b -> screen
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: base -> app
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: theta -> mic
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: ct -> del
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: st -> tool
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: ex -> closest
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: ey -> clamped
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: x -> universal
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: y -> minutes
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: s -> remaining
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: link -> paragraph
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: b -> screen
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: t -> nav
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: heights -> after
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: phase -> catalog
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: scale -> next
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: totalW -> heading
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: x -> universal
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: midY -> future
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: h -> ten
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: l -> last
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: w -> tilt
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: h -> ten
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: mine -> nearest
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: showAsPlaying -> records
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: active -> cos
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: playing -> trimmed
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: active -> cos
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: isPlaying -> url
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: cfg -> password
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: name -> pixel
+文件: [旧 VE_VoiceOrbitAvatarView <--> 新 VEStoreView] 局部变量: hasVoice -> posts
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: sheet -> portrait
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: alert -> localization
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: cell -> reuseCell
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: post -> minutes
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: room -> field
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: vc -> tappedController
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: room -> field
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: vc -> tappedController
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: button -> normalButton
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: button -> normalButton
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: view -> minimumView
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: dimTap -> package
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: h -> ten
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: h -> ten
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: work -> full
+文件: [旧 VE_PersonVC <--> 新 VERoomCoinsController] 局部变量: done -> des
+文件: [旧 VE_UserModel <--> 新 VEScreen] 局部变量: base -> app
+文件: [旧 SS_UserAvatarMedia <--> 新 VECodemagic] 局部变量: url -> persisted
+文件: [旧 SS_UserAvatarMedia <--> 新 VECodemagic] 局部变量: base -> appw
+文件: [旧 SS_UserAvatarMedia <--> 新 VECodemagic] 局部变量: fileURL -> enabled
+文件: [旧 SS_UserAvatarMedia <--> 新 VECodemagic] 局部变量: base -> appw
+文件: [旧 SS_UserAvatarMedia <--> 新 VECodemagic] 局部变量: u -> reports
+文件: [旧 VE_VideoCameraController <--> 新 VEPlayerEmptyController] 局部变量: layer -> week
+文件: [旧 VE_VideoCameraController <--> 新 VEPlayerEmptyController] 局部变量: input -> phase
+文件: [旧 VE_VideoCameraController <--> 新 VEPlayerEmptyController] 局部变量: device -> ratioF
+文件: [旧 VE_VideoCameraController <--> 新 VEPlayerEmptyController] 局部变量: device -> ratioF
+文件: [旧 VE_VideoCameraController <--> 新 VEPlayerEmptyController] 局部变量: input -> phase
+文件: [旧 VE_VideoCameraController <--> 新 VEPlayerEmptyController] 局部变量: next -> font
+文件: [旧 VE_VideoCameraController <--> 新 VEPlayerEmptyController] 局部变量: input -> phase
+文件: [旧 VE_VideoCameraController <--> 新 VEPlayerEmptyController] 局部变量: group -> key
+文件: [旧 VE_VideoCameraController <--> 新 VEPlayerEmptyController] 局部变量: videoGranted -> scenes
+文件: [旧 VE_VideoCameraController <--> 新 VEPlayerEmptyController] 局部变量: audioGranted -> navigation
+文件: [旧 VE_CoinsVC <--> 新 VEEditController] 局部变量: cell -> reuseCell
+文件: [旧 VE_CoinsVC <--> 新 VEEditController] 局部变量: item -> identifierItem
+文件: [旧 VE_CoinsVC <--> 新 VEEditController] 局部变量: previous -> date
+文件: [旧 VE_CoinsVC <--> 新 VEEditController] 局部变量: paths -> class_iz
+文件: [旧 VE_CoinsVC <--> 新 VEEditController] 局部变量: coins -> ephemeral
+文件: [旧 VE_CoinsVC <--> 新 VEEditController] 局部变量: coins -> ephemeral
+文件: [旧 VE_CoinsVC <--> 新 VEEditController] 局部变量: f -> constraints
+文件: [旧 VE_CoinsVC <--> 新 VEEditController] 局部变量: package -> outgoing
+文件: [旧 VE_CoinsVC <--> 新 VEEditController] 局部变量: button -> normalButton
+文件: [旧 VE_CoinsVC <--> 新 VEEditController] 局部变量: layout -> picked
+文件: [旧 VE_CoinsVC <--> 新 VEEditController] 局部变量: w -> tilt
+文件: [旧 VE_CoinsVC <--> 新 VEEditController] 局部变量: cv -> entryView
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: g -> workday
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: g -> workday
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: url -> persisted
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: settings -> ratio
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: r -> selection
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: duration -> locale
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: p -> comments
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: link -> paragraph
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: button -> normalButton
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: v -> processedView
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: v -> processedView
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: button -> normalButton
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: bases -> sheet
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: maxH -> group
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: minH -> bubble
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: t -> nav
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: norm -> add
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: h -> ten
+文件: [旧 VE_VoiceReleaseVC <--> 新 VECodemagicEditController] 局部变量: h -> ten
+文件: [旧 UserData <--> 新 VESetup] 局部变量: list -> presented
+文件: [旧 UserData <--> 新 VESetup] 局部变量: list -> presented
+文件: [旧 UserData <--> 新 VESetup] 局部变量: wren -> date
+文件: [旧 UserData <--> 新 VESetup] 局部变量: luna -> display
+文件: [旧 UserData <--> 新 VESetup] 局部变量: nana -> remaining
+文件: [旧 UserData <--> 新 VESetup] 局部变量: marceline -> release_3
+文件: [旧 UserData <--> 新 VESetup] 局部变量: tn -> session
+文件: [旧 UserData <--> 新 VESetup] 局部变量: nana -> remaining
+文件: [旧 UserData <--> 新 VESetup] 局部变量: partners -> logged
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: index -> device
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: indexPath -> buttons
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: targetX -> display
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: maxOffsetX -> intro
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: clampedX -> heights
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: user -> idx
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: fallback -> h_height
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: view -> minimumView
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: view -> minimumView
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: view -> minimumView
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: view -> minimumView
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: view -> minimumView
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: view -> minimumView
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: collectionView -> barsView
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: attributes -> available
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: centerX -> blank
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: maxDistance -> localization
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: distance -> snapshot
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: progress -> microphone
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: scale -> next
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: collectionView -> barsView
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: attributes -> available
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: centerX -> blank
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: closest -> out9
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: itemWidth -> message
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: itemHeight -> shared
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: horizontalInset -> show
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: view -> minimumView
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: view -> minimumView
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: view -> minimumView
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: view -> minimumView
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: view -> minimumView
+文件: [旧 VE_HomeVC <--> 新 VEPlayerSetupController] 局部变量: view -> minimumView
+文件: [旧 VE_ProfileVC <--> 新 VECodemagicEmptyController] 局部变量: cell -> reuseCell
+文件: [旧 VE_ProfileVC <--> 新 VECodemagicEmptyController] 局部变量: post -> minutes
+文件: [旧 VE_ProfileVC <--> 新 VECodemagicEmptyController] 局部变量: height -> yesterday
+文件: [旧 VE_ProfileVC <--> 新 VECodemagicEmptyController] 局部变量: w -> tilt
+文件: [旧 VE_ProfileVC <--> 新 VECodemagicEmptyController] 局部变量: alert -> localization
+文件: [旧 VE_ProfileVC <--> 新 VECodemagicEmptyController] 局部变量: view -> minimumView
+文件: [旧 String+Localization <--> 新 VECameraVoice] 局部变量: format -> all
+文件: [旧 String+Localization <--> 新 VECameraVoice] 局部变量: currentLanguage -> press
+文件: [旧 String+Localization <--> 新 VECameraVoice] 局部变量: languages -> audio
+文件: [旧 String+Localization <--> 新 VECameraVoice] 局部变量: languageNameMap -> seen
+文件: [旧 String+Localization <--> 新 VECameraVoice] 局部变量: availableLanguageCodes -> millisecond
+文件: [旧 String+Localization <--> 新 VECameraVoice] 局部变量: displayName -> girl
+文件: [旧 String+Localization <--> 新 VECameraVoice] 局部变量: locale -> description_v
+文件: [旧 String+Localization <--> 新 VECameraVoice] 局部变量: previousLanguage -> languages
+文件: [旧 String+Localization <--> 新 VECameraVoice] 局部变量: systemLanguage -> profiles
+文件: [旧 VE_IAPManager <--> 新 VEGirlDelegate] 局部变量: set -> uid
+文件: [旧 VE_IAPManager <--> 新 VEGirlDelegate] 局部变量: request -> bound
+文件: [旧 VE_IAPManager <--> 新 VEGirlDelegate] 局部变量: formatter -> userdefault
+文件: [旧 VE_IAPManager <--> 新 VEGirlDelegate] 局部变量: productId -> remote
+文件: [旧 VE_IAPManager <--> 新 VEGirlDelegate] 局部变量: message -> succeeded
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: newId -> e_layer
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: reserved -> resource
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: u -> reports
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: snap -> weekend
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: holders -> class_3z
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: authored -> microphone
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: comments -> product
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: followed -> nickname
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: followedSet -> controller
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: blocked -> followedh
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: blockedSet -> recording
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: reportRecords -> g_position
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: profiles -> emoji
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: records -> nanoseconds
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: post -> minutes
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: list -> presented
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: postsList -> request
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: imageBaseToDelete -> doc
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: likes -> reportf
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: comments -> product
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: reports -> quarter
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: ids -> messages
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: followed -> nickname
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: ids -> messages
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: blocked -> followedh
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: list -> presented
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: comment -> delegate_s
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: list -> presented
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: post -> minutes
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: exists -> del
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: list -> presented
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: list -> presented
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: old -> existing
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: reporterId -> icon
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: list -> presented
+文件: [旧 VE_UserdefaultTool <--> 新 VENetwork] 局部变量: duplicate -> old
+文件: [旧 VE_VoiceVC <--> 新 VEChatRegisterController] 局部变量: alert -> localization
+文件: [旧 VE_VoiceVC <--> 新 VEChatRegisterController] 局部变量: session -> index
+文件: [旧 VE_VoiceVC <--> 新 VEChatRegisterController] 局部变量: view -> minimumView
+文件: [旧 VE_VoiceVC <--> 新 VEChatRegisterController] 局部变量: view -> minimumView
+文件: [旧 VE_VoiceVC <--> 新 VEChatRegisterController] 局部变量: view -> minimumView
+文件: [旧 VE_VoiceVC <--> 新 VEChatRegisterController] 局部变量: view -> minimumView
+文件: [旧 VE_VoiceVC <--> 新 VEChatRegisterController] 局部变量: view -> minimumView
+文件: [旧 VE_VoiceVC <--> 新 VEChatRegisterController] 局部变量: view -> minimumView
+文件: [旧 VE_VoiceVC <--> 新 VEChatRegisterController] 局部变量: view -> minimumView
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: dateFormatter -> inew_o
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: month -> middle
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: numberOfMonths -> enc
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: numberOfMonthsInQuarter -> shared
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: currentYear -> group
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: yearsToAdd -> progress
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: allowedRange -> size_zn
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: currentMonth -> components
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: monthsToAdd -> root
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: allowedRange -> size_zn
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: currentDay -> delegate_l
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: daysToAdd -> dim
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: allowedRange -> size_zn
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: currentHour -> tomorrow
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: hoursToAdd -> off
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: allowedRange -> size_zn
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: currentMinutes -> detail
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: minutesToAdd -> waveform
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: allowedRange -> size_zn
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: currentSeconds -> prefix_q6
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: secondsToAdd -> queue
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: allowedRange -> size_zn
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: currentNanoseconds -> buttons
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: nanosecondsToAdd -> ring
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: nanoSeconds -> letter
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: allowedRange -> size_zn
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: dateFormatter -> inew_o
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: components -> failed
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: components -> failed
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: components -> failed
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: components -> failed
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: components -> failed
+文件: [旧 Date+Extension <--> 新 VEPostContact] 局部变量: date -> content
+文件: [旧 VE_NetworkTool <--> 新 VEPublishedLaunch] 局部变量: request -> bound
+文件: [旧 VE_NetworkTool <--> 新 VEPublishedLaunch] 局部变量: normalizedPath -> normalP
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: name -> pixel
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: email -> wave
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: password -> hello
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: newId -> e_layer
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: user -> idx
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: email -> wave
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: password -> hello
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: alert -> localization
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: picker -> records
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: image -> addImage
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: v -> processedView
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: v -> processedView
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: button -> normalButton
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: textField -> month
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: button -> normalButton
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: button -> normalButton
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: button -> normalButton
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: button -> normalButton
+文件: [旧 VE_SetupVC <--> 新 VEBaseCenterController] 局部变量: textField -> month
+文件: [旧 UIImage+Extension <--> 新 VEVoice] 局部变量: format -> all
+文件: [旧 UIImage+Extension <--> 新 VEVoice] 局部变量: renderer -> off
+文件: [旧 UIImage+Extension <--> 新 VEVoice] 局部变量: c -> doc
+文件: [旧 UIImage+Extension <--> 新 VEVoice] 局部变量: maxDim -> page
+文件: [旧 UIImage+Extension <--> 新 VEVoice] 局部变量: scale -> next
+文件: [旧 UIImage+Extension <--> 新 VEVoice] 局部变量: newSize -> selection
+文件: [旧 UIImage+Extension <--> 新 VEVoice] 局部变量: renderer -> off
+文件: [旧 UIImage+Extension <--> 新 VEVoice] 局部变量: scale -> next
+文件: [旧 UIImage+Extension <--> 新 VEVoice] 局部变量: pixelRect -> host
+文件: [旧 UIImage+Extension <--> 新 VEVoice] 局部变量: cropped -> row
+文件: [旧 VE_ProfileTopView <--> 新 VEPackageView] 局部变量: avatar -> release_3
+文件: [旧 VE_ProfileTopView <--> 新 VEPackageView] 局部变量: b -> screen
+文件: [旧 VE_ProfileTopView <--> 新 VEPackageView] 局部变量: b -> screen
+文件: [旧 VE_ReleaseVC <--> 新 VECoinsController] 局部变量: trimmed -> coins
+文件: [旧 VE_ReleaseVC <--> 新 VECoinsController] 局部变量: fileURL -> enabled
+文件: [旧 VE_ReleaseVC <--> 新 VECoinsController] 局部变量: postId -> full
+文件: [旧 VE_ReleaseVC <--> 新 VECoinsController] 局部变量: emojiType -> recording
+文件: [旧 VE_ReleaseVC <--> 新 VECoinsController] 局部变量: button -> normalButton
+文件: [旧 VE_ReleaseVC <--> 新 VECoinsController] 局部变量: isOn -> red
+文件: [旧 VE_ReleaseVC <--> 新 VECoinsController] 局部变量: configuration -> modity
+文件: [旧 VE_ReleaseVC <--> 新 VECoinsController] 局部变量: picker -> records
+文件: [旧 VE_ReleaseVC <--> 新 VECoinsController] 局部变量: post -> minutes
+文件: [旧 VE_ReleaseVC <--> 新 VECoinsController] 局部变量: button -> normalButton
+文件: [旧 VE_ReleaseVC <--> 新 VECoinsController] 局部变量: view -> minimumView
+文件: [旧 UIApplication+Extension <--> 新 VEVideo] 局部变量: lendo_window -> doc
+文件: [旧 UIColor+Extension <--> 新 VEMain] 局部变量: red -> exists
+文件: [旧 UIColor+Extension <--> 新 VEMain] 局部变量: green -> opening
+文件: [旧 UIColor+Extension <--> 新 VEMain] 局部变量: blue -> names
+文件: [旧 UIColor+Extension <--> 新 VEMain] 局部变量: cString -> items
+文件: [旧 UIColor+Extension <--> 新 VEMain] 局部变量: range -> map
+文件: [旧 UIColor+Extension <--> 新 VEMain] 局部变量: rString -> raw
+文件: [旧 UIColor+Extension <--> 新 VEMain] 局部变量: gString -> font
+文件: [旧 UIColor+Extension <--> 新 VEMain] 局部变量: bString -> constraints
+文件: [旧 UIColor+Extension <--> 新 VEMain] 局部变量: r -> selection
+文件: [旧 VE_ContactVC <--> 新 VEManagerResourceController] 局部变量: button -> normalButton
+文件: [旧 VE_ContactVC <--> 新 VEManagerResourceController] 局部变量: tv -> long_gView
+文件: [旧 VE_ContactVC <--> 新 VEManagerResourceController] 局部变量: email -> wave
+文件: [旧 VE_ContactVC <--> 新 VEManagerResourceController] 局部变量: attr -> err
+文件: [旧 VE_ContactVC <--> 新 VEManagerResourceController] 局部变量: paragraph -> timestamp
+文件: [旧 SS_PublishedPostMedia <--> 新 VEManagerResource] 局部变量: url -> persisted
+文件: [旧 SS_PublishedPostMedia <--> 新 VEManagerResource] 局部变量: base -> app7
+文件: [旧 SS_PublishedPostMedia <--> 新 VEManagerResource] 局部变量: fileURL -> enabled
+文件: [旧 SS_PublishedPostMedia <--> 新 VEManagerResource] 局部变量: base -> app7
+文件: [旧 SS_PublishedPostMedia <--> 新 VEManagerResource] 局部变量: dest -> target
+文件: [旧 SS_PublishedPostMedia <--> 新 VEManagerResource] 局部变量: u -> reports
+文件: [旧 SS_PublishedPostMedia <--> 新 VEManagerResource] 局部变量: u -> reports
+文件: [旧 SS_BundleResourceMedia <--> 新 VEManager] 局部变量: bundle -> today
+文件: [旧 SS_BundleResourceMedia <--> 新 VEManager] 局部变量: root -> progress
+文件: [旧 SS_BundleResourceMedia <--> 新 VEManager] 局部变量: dir -> reported
+文件: [旧 SS_BundleResourceMedia <--> 新 VEManager] 局部变量: u -> reports
+文件: [旧 SS_BundleResourceMedia <--> 新 VEManager] 局部变量: asset -> nanosecond
+文件: [旧 SS_BundleResourceMedia <--> 新 VEManager] 局部变量: gen -> e_width
+文件: [旧 SS_BundleResourceMedia <--> 新 VEManager] 局部变量: cgImage -> feedbackImage
+文件: [旧 VE_AudioPlayer <--> 新 VEUserdefaultGirl] 局部变量: had -> purchasing
+文件: [旧 VE_AudioPlayer <--> 新 VEUserdefaultGirl] 局部变量: session -> index
+文件: [旧 VE_AudioPlayer <--> 新 VEUserdefaultGirl] 局部变量: p -> comments
+文件: [旧 AppDelegate <--> 新 AppDelegate] 局部变量: launchVC -> controllerController
+文件: [旧 SS_UserVoiceMedia <--> 新 VEPartners] 局部变量: url -> persisted
+文件: [旧 SS_UserVoiceMedia <--> 新 VEPartners] 局部变量: base -> appm
+文件: [旧 SS_UserVoiceMedia <--> 新 VEPartners] 局部变量: dest -> target
+文件: [旧 SS_UserVoiceMedia <--> 新 VEPartners] 局部变量: u -> reports
+文件: [旧 SS_UserVoiceMedia <--> 新 VEPartners] 局部变量: base -> appm
+文件: [旧 VE_ReportVC <--> 新 VEExtensionController] 局部变量: footer -> auth
+文件: [旧 VE_ReportVC <--> 新 VEExtensionController] 局部变量: previous -> date
+文件: [旧 VE_ReportVC <--> 新 VEExtensionController] 局部变量: paths -> class_iz
+文件: [旧 VE_ReportVC <--> 新 VEExtensionController] 局部变量: width -> regex
+文件: [旧 VE_ReportVC <--> 新 VEExtensionController] 局部变量: cell -> reuseCell
+文件: [旧 VE_ReportVC <--> 新 VEExtensionController] 局部变量: item -> identifierItem
+文件: [旧 VE_ReportVC <--> 新 VEExtensionController] 局部变量: button -> normalButton
+文件: [旧 VE_ReportVC <--> 新 VEExtensionController] 局部变量: view -> minimumView
+文件: [旧 VE_ReportVC <--> 新 VEExtensionController] 局部变量: button -> normalButton
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: tap -> pops
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: vc -> tappedController
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: trimmed -> coins
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: indexPath -> buttons
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: delay -> room
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: work -> full
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: reply -> delayq
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: indexPath -> buttons
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: item -> identifierItem
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: indexPath -> buttons
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: button -> normalButton
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: button -> normalButton
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: tv -> long_gView
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: b -> screen
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: b -> screen
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: t -> nav
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: inner -> background
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: cfg -> password
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: cfg -> password
+文件: [旧 VE_ChatRoomVC <--> 新 VERegisterController] 局部变量: inner -> background
+文件: [旧 VE_ChatVC <--> 新 VEBlackRoomController] 局部变量: hasRows -> norm
+文件: [旧 VE_ChatVC <--> 新 VEBlackRoomController] 局部变量: peerId -> informationZ
+文件: [旧 VE_ChatVC <--> 新 VEBlackRoomController] 局部变量: peerId -> informationZ
+文件: [旧 VE_ChatVC <--> 新 VEBlackRoomController] 局部变量: room -> field
+文件: [旧 VE_ChatVC <--> 新 VEBlackRoomController] 局部变量: item -> identifierItem
+文件: [旧 VE_ChatVC <--> 新 VEBlackRoomController] 局部变量: room -> field
+文件: [旧 VE_ChatVC <--> 新 VEBlackRoomController] 局部变量: isOn -> red
+文件: [旧 VE_ChatVC <--> 新 VEBlackRoomController] 局部变量: item -> identifierItem
+文件: [旧 VE_ChatVC <--> 新 VEBlackRoomController] 局部变量: buttonWidth -> insetr
+文件: [旧 VE_ChatVC <--> 新 VEBlackRoomController] 局部变量: view -> minimumView
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: letter -> replies
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: trimmed -> coins
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: format -> all
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: renderer -> off
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: attrs -> weekday
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: text -> preview
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: textSize -> reply
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: rect -> des
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: provider -> enabled
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: request -> bound
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: controller -> calendarController
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: bodyFont -> blank
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: linkFont -> rows
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: bodyColor -> host
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: linkColor -> when
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: userAgreement -> window_d3
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: middle -> bases
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: privacy -> fallback
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: attr -> err
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: paragraph -> timestamp
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: internalId -> b_height
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: name -> pixel
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: email -> wave
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: avatar -> release_3
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: formatter -> userdefault
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: s -> remaining
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: formatter -> userdefault
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: s -> remaining
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: user -> idx
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: tv -> long_gView
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: ns -> replyC
+文件: [旧 VE_LoginVC <--> 新 VESetupController] 局部变量: scenes -> hides
+文件: [旧 VE_PostCell <--> 新 VEMainCell] 局部变量: newLike -> label
+文件: [旧 VE_SettingsVC <--> 新 VEPartnersAudioController] 局部变量: cell -> reuseCell
+文件: [旧 VE_SettingsVC <--> 新 VEPartnersAudioController] 局部变量: alert -> localization
+文件: [旧 VE_SettingsVC <--> 新 VEPartnersAudioController] 局部变量: button -> normalButton
+文件: [旧 VE_SettingsVC <--> 新 VEPartnersAudioController] 局部变量: view -> minimumView
+文件: [旧 VE_BlackVC <--> 新 VEPlayerReleaseController] 局部变量: cell -> reuseCell
+文件: [旧 VE_BlackVC <--> 新 VEPlayerReleaseController] 局部变量: item -> identifierItem
+文件: [旧 VE_BlackVC <--> 新 VEPlayerReleaseController] 局部变量: avatar -> release_3
+文件: [旧 VE_BlackVC <--> 新 VEPlayerReleaseController] 局部变量: button -> normalButton
+文件: [旧 VE_BlackVC <--> 新 VEPlayerReleaseController] 局部变量: view -> minimumView
+文件: [旧 VE_BlackVC <--> 新 VEPlayerReleaseController] 局部变量: cfg -> password
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: map -> pushed
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: map -> pushed
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: lines -> peers
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: map -> pushed
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: sortedPeers -> snapshot
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: df -> legal
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: name -> pixel
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: preview -> usersView
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: dateDisplay -> guide
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: avatar -> release_3
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: idx -> resource
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: names -> remote
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: out -> label
+文件: [旧 VE_ChatLocalStore <--> 新 VEPackage] 局部变量: enc -> wave
+文件: [旧 VE_PostModel <--> 新 VERegisterSetup] 局部变量: img -> cover
+文件: [旧 VE_PersonTopView <--> 新 VEModityView] 局部变量: avatar -> release_3
+文件: [旧 VE_PersonTopView <--> 新 VEModityView] 局部变量: b -> screen
+
+
+开始自动生成垃圾代码文件。。。。。。。
+100%👌
+
+
+开始自动融合生成的垃圾代码文件。。。。。。
+100%👌
+
+
+开始自动加密混淆字符串。。。。。。。
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://docs.google.com/document/d/1HaX6WxRWdwnage_gSjgaIhSlNkBy7AJKWfztQqgEiy4/edit?usp=sharing"
+"https://docs.google.com/document/d/1x4_c1Y4x1SvVrhFCTc4_wJQplpDULBvzbNxPCJJdd7g/edit?usp=sharing"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://www.youtube.com/shorts/Edtnh6iwglw"
+"https://docs.google.com/document/d/1x4_c1Y4x1SvVrhFCTc4_wJQplpDULBvzbNxPCJJdd7g/edit?usp=sharing"
+"https://docs.google.com/document/d/1HaX6WxRWdwnage_gSjgaIhSlNkBy7AJKWfztQqgEiy4/edit?usp=sharing"
+"https://api.fiveukmedia.xyz"
+
+
+开始融合并调用生成的垃圾代码文件函数或者类。。。。。。。
+100%👌
+
+开始扰乱改变函数里面执行顺序。。。。。。。
+100%👌
+
+
+开始生成新混淆源文件。。。。。。。
+100%👌
+
+
+开始自动更新项目配置。。。。。。。
+100%👌

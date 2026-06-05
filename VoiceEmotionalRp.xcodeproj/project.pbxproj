@@ -1,0 +1,516 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		ATL2WAO58839048983695Q45 /* VELaunchNetworkObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = JC8R35049TA43B8J055OR214 /* VELaunchNetworkObject.swift */; };
+		CBX8YS3439B4812536Z074LN /* VEVideoDelegateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ZB53D2G249D63KH949J0I2FP /* VEVideoDelegateView.swift */; };
+		D29274784392146F4998NZ7P /* Pods_VoiceEmotionalRp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F347814518WXB17M54E74UX2 /* Pods_VoiceEmotionalRp.framework */; };
+		DWWLY10703057QG74D167016 /* VEBlackController.swift in Sources */ = {isa = PBXBuildFile; fileRef = LP6J313343071011NQ750730 /* VEBlackController.swift */; };
+		GB5V6G84L6L45199RL250E21 /* VERoomController.swift in Sources */ = {isa = PBXBuildFile; fileRef = QH6Y9F0811ZY2W42940Z1859 /* VERoomController.swift */; };
+		GQ2667QN84199E0208DP821V /* VEAvatarOrbitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = WBS93858M3OA149S75420161 /* VEAvatarOrbitView.swift */; };
+		GUJU266RQ2710X53U8S0Q911 /* VEMediaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = YM8H4370562QK1BH49E6F7U2 /* VEMediaController.swift */; };
+		OP2X5L5RIC7JKY146713O748 /* VEStoreObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = UFJB537CB5031664U881YB68 /* VEStoreObject.swift */; };
+		PA2J817027M793F227033634 /* VEOrbitCurrentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = QO468970388F498398I323E1 /* VEOrbitCurrentView.swift */; };
+		RXW91L05Z3P4E13GL360924C /* VEReleaseDelegateObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = NP80K12825176W952725J507 /* VEReleaseDelegateObject.swift */; };
+		RYYDSA80Y56E2057CU6H4211 /* VESetupObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = QO2R227QN0K796957W19GB30 /* VESetupObject.swift */; };
+		SFIG1O7360233W0XMVCI5497 /* VEPartnersObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = RL44H1GED2J31F5251012989 /* VEPartnersObject.swift */; };
+		TOJ585AHMN3815VPD9X2Y0F5 /* VECameraEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CZ559ZS50Z49NC6K0315BW90 /* VECameraEditView.swift */; };
+		TWHS51540X44U94F9985G8W2 /* VEDelegateObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = KC87C388554E5423V97Y5YY7 /* VEDelegateObject.swift */; };
+		UEM0P79BM7R3N37414G1S274 /* VEPublishedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = UJQ53M2772685645611Y0820 /* VEPublishedView.swift */; };
+		VS8T98176360191Q212XD92U /* VEContactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ZVK9L48300C68QYE4XL53V12 /* VEContactView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		043ET54I2A21030N5KF21076 /* VoiceEmotionalRp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VoiceEmotionalRp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F63H9IFET2HRT8MTY6208CI /* Pods-VoiceEmotionalRp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VoiceEmotionalRp.debug.xcconfig"; path = "Target Support Files/Pods-VoiceEmotionalRp/Pods-VoiceEmotionalRp.debug.xcconfig"; sourceTree = "<group>"; };
+		A8006F3807HU61GB36D2I1C9 /* Pods-VoiceEmotionalRp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VoiceEmotionalRp.release.xcconfig"; path = "Target Support Files/Pods-VoiceEmotionalRp/Pods-VoiceEmotionalRp.release.xcconfig"; sourceTree = "<group>"; };
+		CZ559ZS50Z49NC6K0315BW90 /* VECameraEditView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VECameraEditView.swift; sourceTree = "<group>"; };
+		F347814518WXB17M54E74UX2 /* Pods_VoiceEmotionalRp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VoiceEmotionalRp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		JC8R35049TA43B8J055OR214 /* VELaunchNetworkObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VELaunchNetworkObject.swift; sourceTree = "<group>"; };
+		KC87C388554E5423V97Y5YY7 /* VEDelegateObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VEDelegateObject.swift; sourceTree = "<group>"; };
+		LP6J313343071011NQ750730 /* VEBlackController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VEBlackController.swift; sourceTree = "<group>"; };
+		NP80K12825176W952725J507 /* VEReleaseDelegateObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VEReleaseDelegateObject.swift; sourceTree = "<group>"; };
+		QH6Y9F0811ZY2W42940Z1859 /* VERoomController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VERoomController.swift; sourceTree = "<group>"; };
+		QO2R227QN0K796957W19GB30 /* VESetupObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VESetupObject.swift; sourceTree = "<group>"; };
+		QO468970388F498398I323E1 /* VEOrbitCurrentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VEOrbitCurrentView.swift; sourceTree = "<group>"; };
+		RL44H1GED2J31F5251012989 /* VEPartnersObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VEPartnersObject.swift; sourceTree = "<group>"; };
+		UFJB537CB5031664U881YB68 /* VEStoreObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VEStoreObject.swift; sourceTree = "<group>"; };
+		UJQ53M2772685645611Y0820 /* VEPublishedView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VEPublishedView.swift; sourceTree = "<group>"; };
+		WBS93858M3OA149S75420161 /* VEAvatarOrbitView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VEAvatarOrbitView.swift; sourceTree = "<group>"; };
+		YM8H4370562QK1BH49E6F7U2 /* VEMediaController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VEMediaController.swift; sourceTree = "<group>"; };
+		ZB53D2G249D63KH949J0I2FP /* VEVideoDelegateView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VEVideoDelegateView.swift; sourceTree = "<group>"; };
+		ZVK9L48300C68QYE4XL53V12 /* VEContactView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = VEContactView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		042O0Z25559OJ803B99T9489 /* Exceptions for "VoiceEmotionalRp" folder in "VoiceEmotionalRp" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 046L1293Z226P138Y2HL98PU /* VoiceEmotionalRp */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		040TV9B4Q3991DG55034TK76 /* VoiceEmotionalRp */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				042O0Z25559OJ803B99T9489 /* Exceptions for "VoiceEmotionalRp" folder in "VoiceEmotionalRp" target */,
+			);
+			path = VoiceEmotionalRp;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		04E67BI61PWGS565ZY3K36B7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D29274784392146F4998NZ7P /* Pods_VoiceEmotionalRp.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		040HR99XO6R5E9Z34767ZY0M = {
+			isa = PBXGroup;
+			children = (
+				040TV9B4Q3991DG55034TK76 /* VoiceEmotionalRp */,
+				046671M5937GO42997K1U095 /* Products */,
+				166M4K8187S226N50918PZA3 /* Pods */,
+				774QZ517EKF81788MPGMVA9U /* Frameworks */,
+				ZG890BB685YR980T43139GY5 /* refpic */,
+			);
+			sourceTree = "<group>";
+		};
+		046671M5937GO42997K1U095 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				043ET54I2A21030N5KF21076 /* VoiceEmotionalRp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		166M4K8187S226N50918PZA3 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3F63H9IFET2HRT8MTY6208CI /* Pods-VoiceEmotionalRp.debug.xcconfig */,
+				A8006F3807HU61GB36D2I1C9 /* Pods-VoiceEmotionalRp.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		774QZ517EKF81788MPGMVA9U /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F347814518WXB17M54E74UX2 /* Pods_VoiceEmotionalRp.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		ZG890BB685YR980T43139GY5 /* refpic */ = {
+			isa = PBXGroup;
+			children = (
+				UJQ53M2772685645611Y0820 /* VEPublishedView.swift */,
+				QH6Y9F0811ZY2W42940Z1859 /* VERoomController.swift */,
+				QO2R227QN0K796957W19GB30 /* VESetupObject.swift */,
+				KC87C388554E5423V97Y5YY7 /* VEDelegateObject.swift */,
+				CZ559ZS50Z49NC6K0315BW90 /* VECameraEditView.swift */,
+				UFJB537CB5031664U881YB68 /* VEStoreObject.swift */,
+				ZVK9L48300C68QYE4XL53V12 /* VEContactView.swift */,
+				WBS93858M3OA149S75420161 /* VEAvatarOrbitView.swift */,
+				YM8H4370562QK1BH49E6F7U2 /* VEMediaController.swift */,
+				JC8R35049TA43B8J055OR214 /* VELaunchNetworkObject.swift */,
+				QO468970388F498398I323E1 /* VEOrbitCurrentView.swift */,
+				NP80K12825176W952725J507 /* VEReleaseDelegateObject.swift */,
+				ZB53D2G249D63KH949J0I2FP /* VEVideoDelegateView.swift */,
+				RL44H1GED2J31F5251012989 /* VEPartnersObject.swift */,
+				LP6J313343071011NQ750730 /* VEBlackController.swift */,
+			);
+			path = refpic;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		046L1293Z226P138Y2HL98PU /* VoiceEmotionalRp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04RL7QCBH0470035TYL97164 /* Build configuration list for PBXNativeTarget "VoiceEmotionalRp" */;
+			buildPhases = (
+				7C1C414O39R4G05959426A77 /* [CP] Check Pods Manifest.lock */,
+				04Z562I907J7036S078M5BJT /* Sources */,
+				04E67BI61PWGS565ZY3K36B7 /* Frameworks */,
+				048U223O5D8A06058L123C13 /* Resources */,
+				7E613F87ER16H6DCX335G143 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				040TV9B4Q3991DG55034TK76 /* VoiceEmotionalRp */,
+			);
+			name = VoiceEmotionalRp;
+			productName = VoiceEmotionalRp;
+			productReference = 043ET54I2A21030N5KF21076 /* VoiceEmotionalRp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0478H50752245087R58U8517 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				CLASSPREFIX = VE_;
+				LastSwiftUpdateCheck = 2620;
+				LastUpgradeCheck = 2620;
+				TargetAttributes = {
+					046L1293Z226P138Y2HL98PU = {
+						CreatedOnToolsVersion = 26.2;
+					};
+				};
+			};
+			buildConfigurationList = 0478B59D33F75D1P9DL0F258 /* Build configuration list for PBXProject "VoiceEmotionalRp" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 040HR99XO6R5E9Z34767ZY0M;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 046671M5937GO42997K1U095 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				046L1293Z226P138Y2HL98PU /* VoiceEmotionalRp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		048U223O5D8A06058L123C13 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		7C1C414O39R4G05959426A77 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-VoiceEmotionalRp-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7E613F87ER16H6DCX335G143 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-VoiceEmotionalRp/Pods-VoiceEmotionalRp-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-VoiceEmotionalRp/Pods-VoiceEmotionalRp-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-VoiceEmotionalRp/Pods-VoiceEmotionalRp-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		04Z562I907J7036S078M5BJT /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				UEM0P79BM7R3N37414G1S274 /* VEPublishedView.swift in Sources */,
+				GB5V6G84L6L45199RL250E21 /* VERoomController.swift in Sources */,
+				RYYDSA80Y56E2057CU6H4211 /* VESetupObject.swift in Sources */,
+				TWHS51540X44U94F9985G8W2 /* VEDelegateObject.swift in Sources */,
+				TOJ585AHMN3815VPD9X2Y0F5 /* VECameraEditView.swift in Sources */,
+				OP2X5L5RIC7JKY146713O748 /* VEStoreObject.swift in Sources */,
+				VS8T98176360191Q212XD92U /* VEContactView.swift in Sources */,
+				GQ2667QN84199E0208DP821V /* VEAvatarOrbitView.swift in Sources */,
+				GUJU266RQ2710X53U8S0Q911 /* VEMediaController.swift in Sources */,
+				ATL2WAO58839048983695Q45 /* VELaunchNetworkObject.swift in Sources */,
+				PA2J817027M793F227033634 /* VEOrbitCurrentView.swift in Sources */,
+				RXW91L05Z3P4E13GL360924C /* VEReleaseDelegateObject.swift in Sources */,
+				CBX8YS3439B4812536Z074LN /* VEVideoDelegateView.swift in Sources */,
+				SFIG1O7360233W0XMVCI5497 /* VEPartnersObject.swift in Sources */,
+				DWWLY10703057QG74D167016 /* VEBlackController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0433812MW2Z722613L4L2VZZ /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		044T82F00GA9727G4M4437HI /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A8006F3807HU61GB36D2I1C9 /* Pods-VoiceEmotionalRp.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = VoiceEmotionalRp/VoiceEmotionalRp.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VoiceEmotionalRp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = RIRI;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Use the camera to take your profile avatar.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "The microphone is used to record your voice when you create and publish voice posts.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Use your photo library to choose your profile avatar.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.VoiceEmotional.RIRI;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		048588DT848W895L6QLA4SL1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3F63H9IFET2HRT8MTY6208CI /* Pods-VoiceEmotionalRp.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = VoiceEmotionalRp/VoiceEmotionalRp.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VoiceEmotionalRp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = RIRI;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Use the camera to take your profile avatar.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "The microphone is used to record your voice when you create and publish voice posts.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Use your photo library to choose your profile avatar.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.VoiceEmotional.RIRI;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		04X7DJ461411986110JW5W52 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0478B59D33F75D1P9DL0F258 /* Build configuration list for PBXProject "VoiceEmotionalRp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0433812MW2Z722613L4L2VZZ /* Debug */,
+				04X7DJ461411986110JW5W52 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04RL7QCBH0470035TYL97164 /* Build configuration list for PBXNativeTarget "VoiceEmotionalRp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				048588DT848W895L6QLA4SL1 /* Debug */,
+				044T82F00GA9727G4M4437HI /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0478H50752245087R58U8517 /* Project object */;
+}
